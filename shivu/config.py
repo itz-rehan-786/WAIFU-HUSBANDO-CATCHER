@@ -12,8 +12,8 @@ SUPPORT_CHAT = "testbotarea"
 UPDATE_CHAT = "bot_support_arena"
 BOT_USERNAME = "Testjdjdjdjdbot"
 CHARA_CHANNEL_ID = "-1002109838600"
-api_id = "20457610"
-api_hash = "b7de0dfecd19375d3f84dbedaeb92537"
+api_id = "27604779"
+api_hash = "8a04200c9d52999ae7ebc26a462dbb48"
     
 class Production(Config):
     LOGGER = True
